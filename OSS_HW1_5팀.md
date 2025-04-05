@@ -49,7 +49,7 @@
            (3) 다양한 출력 포맷 지원:
                R Markdown은 HTML, PDF, Word, 슬라이드(pptx, ioslides, reveal.js) 등 다양한 포맷을 지원한다. 출력 포맷은 문서 상단의
                YAML 헤더 설정을 통해 손쉽게 변경 가능하며, 특히 HTML 출력 시에는 대화형 그래프, 탭, 애니메이션 등의 기능을 활용할 수 있다.
-               ![YAML 헤더 설정울 통한 출력 포맷 지정](https://github.com/yeeun1025/OSS_5/blob/main/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5%203.1.(3).png)
+   ![YAML 헤더 설정울 통한 출력 포맷 지정](https://github.com/yeeun1025/OSS_5/blob/main/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5%203.1.(3).png)
            (4) 문서 자동화 및 반복 보고서 최적화:
                일일 리포트나 정기 보고서처럼 반복적으로 생성되는 문서는 데이터 경로만 변경하여 자동으로 문서를 생성할 수 있다.
                이를 통해 문서 형식의 일관성을 유지하면서 업무 효율을 크게 향상시킬 수 있다.
