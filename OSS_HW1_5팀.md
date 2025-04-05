@@ -1,14 +1,14 @@
-제목: RStudio 소프트웨어 조사
+제목: RStudio 소프트웨어 조사  
 팀원: 
       통계학과/2023007695/이예은 (yeeun1025)  
-      통계학과/2023003381/김다현 (23dahyeon)
+      통계학과/2023003381/김다현 (23dahyeon)  
 
 
 
 
-1. 개요
+1. 개요  
 
-2. 라이선스
+2. 라이선스  
 - R (R Programming Language)
 개발 주체: R Foundation for Statistical Computing (비영리 재단)
 라이선스: GNU General Public License (GPL) v2 또는 v3
