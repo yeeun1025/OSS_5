@@ -244,9 +244,9 @@
         • 콘솔에서 디버깅 명령어(n, c, Q 등)를 사용해 코드 라인을 한 줄씩 실행하거나 디버깅 종료 가능하다.
 
        (3) 디버그 관련 함수들
-   ![3 8 서버환경지원](https://github.com/user-attachments/assets/2fd34d96-face-4cb6-8582-f05f3236116c)
+   
+        ![3 7 디버깅](https://github.com/user-attachments/assets/f5aad3ce-c829-4f55-b616-43b907c4aafb)
 
-        ![디버그 관련 함수들]()
    
        (4) 변수 추적
         • Environment 창에서 현재 선언된 변수들의 값, 구조를 실시간으로 확인 가능하다.
@@ -273,7 +273,30 @@
         • 함수 입력 괄호 () 안에서 인자 이름과 기본값을 보여준다.
         • 예: mean( 입력 시 x, trim = 0, na.rm = FALSE와 같은 인자 정보가 나타남.
 
-   
+
+  3.8 서버환경지원 (RStudio Server)
+  
+       1. RStudio Servere: 
+       •RStudio IDE를 웹 브라우저에서 사용할수 있도록 만든 서버 버전이다.
+       •Linux 서버에 설치해서 원격 접속가능하다.
+       •사용자는 브라우저로 접속해 RStudio를 사용할 수 있다.
+       •시스템 자원(CPU, 메모리)을 중앙에서 통합 관리 가능하다.
+
+       2. 주요기능
+
+
+       ![3 8 서버환경지원](https://github.com/user-attachments/assets/3233d0fa-4489-4d82-b54a-1c5d74290904)
+
+
+       3. 버전 종류
+
+        •RStudio Server : 무료 버전, 단인 서버 환경, 기본 기능만 제공한다.
+        •RStudio Server Pro(Posit Workbench) : 유료, 멀티세션/멀티 유저 지원, 부하 분산, LDAP 인증, 리소스 제어 등 엔터프라이즈 기능을 포함한다.
+
+       4. 사용 예시
+        •기업 내 데이터 분석 팀이 중앙 서버를 구축하고 모든 분석을 RStudio Server를 통해 수행한다.
+        •대학에서 학생들에게 동일한 분석 환경을 제공하기 위해 서버 환경을 구축한다.
+        •클라우드(AWS, GCP, Azure)에서 RStudio Server를 배포하여 원격 분석 환경을 구축한다.
  
 
    
