@@ -245,7 +245,7 @@
 
        (3) 디버그 관련 함수들
    
-        ![3 7 디버깅](https://github.com/user-attachments/assets/f5aad3ce-c829-4f55-b616-43b907c4aafb)
+        ![3 7 디버깅](https://github.com/user-attachments/assets/b73a68f2-7884-4adb-92d5-54cfba84abd2)
 
    
        (4) 변수 추적
