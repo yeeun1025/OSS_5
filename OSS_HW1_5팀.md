@@ -244,8 +244,7 @@
         • 콘솔에서 디버깅 명령어(n, c, Q 등)를 사용해 코드 라인을 한 줄씩 실행하거나 디버깅 종료 가능하다.
 
        (3) 디버그 관련 함수들
-   
-        ![3 7 디버깅](https://github.com/user-attachments/assets/b73a68f2-7884-4adb-92d5-54cfba84abd2)
+   ![3 7 디버깅](https://github.com/user-attachments/assets/b73a68f2-7884-4adb-92d5-54cfba84abd2)
 
    
        (4) 변수 추적
