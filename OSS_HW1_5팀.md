@@ -7,7 +7,8 @@
 
 1. 개요  
 
-2. 라이선스  
+2. 라이선스
+   
 - R (R Programming Language)   
   개발 주체: R Foundation for Statistical Computing (비영리 재단)  
   라이선스: GNU General Public License (GPL) v2 또는 v3  
