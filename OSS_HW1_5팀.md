@@ -57,6 +57,8 @@
            (5) 다양한 언어 및 시각화 도구와의 호환성:
                R을 기반으로 하지만, Python, SQL, Bash 등 다양한 언어도 코드 청크를 통해 실행할 수 있다. ggplot2, plotly, leaflet 등의
                시각화 도구와 연동하여 정적 및 대화형 그래프를 손쉽게 포함시킬 수 있다.
+   ![ggplot2 그래프를 통한 시각화](https://github.com/yeeun1025/OSS_5/blob/main/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5%203.1.(5).png)
+   
            (6) Markdown 기반 문법 및 YAML 설정:
                일반적인 Markdown 문법을 기반으로 문서를 작성하며, 코드 블록은 {r} 등의 태그를 통해 삽입한다. 문서 상단에는 YAML 헤더를
                사용하여 출력 형식, 문서 제목, 저자, 날짜 등을 설정할 수 있다.
