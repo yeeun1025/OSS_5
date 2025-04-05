@@ -283,9 +283,8 @@
        •시스템 자원(CPU, 메모리)을 중앙에서 통합 관리 가능하다.
 
        2. 주요기능
+![3 8 서버환경지원](https://github.com/user-attachments/assets/7c0df2f1-6fc7-4865-9eb0-139627d3474c)
 
-
-       ![3 8 서버환경지원](https://github.com/user-attachments/assets/3233d0fa-4489-4d82-b54a-1c5d74290904)
 
 
        3. 버전 종류
