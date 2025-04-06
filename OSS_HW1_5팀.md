@@ -288,13 +288,13 @@
 
        3. 버전 종류
 
-        •RStudio Server : 무료 버전, 단인 서버 환경, 기본 기능만 제공한다.
-        •RStudio Server Pro(Posit Workbench) : 유료, 멀티세션/멀티 유저 지원, 부하 분산, LDAP 인증, 리소스 제어 등 엔터프라이즈 기능을 포함한다.
+       •RStudio Server : 무료 버전, 단인 서버 환경, 기본 기능만 제공한다.
+       •RStudio Server Pro(Posit Workbench) : 유료, 멀티세션/멀티 유저 지원, 부하 분산, LDAP 인증, 리소스 제어 등 엔터프라이즈 기능을 포함한다.
 
        4. 사용 예시
-        •기업 내 데이터 분석 팀이 중앙 서버를 구축하고 모든 분석을 RStudio Server를 통해 수행한다.
-        •대학에서 학생들에게 동일한 분석 환경을 제공하기 위해 서버 환경을 구축한다.
-        •클라우드(AWS, GCP, Azure)에서 RStudio Server를 배포하여 원격 분석 환경을 구축한다.
+       •기업 내 데이터 분석 팀이 중앙 서버를 구축하고 모든 분석을 RStudio Server를 통해 수행한다.
+       •대학에서 학생들에게 동일한 분석 환경을 제공하기 위해 서버 환경을 구축한다.
+       •클라우드(AWS, GCP, Azure)에서 RStudio Server를 배포하여 원격 분석 환경을 구축한다.
  
 
    
