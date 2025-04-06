@@ -85,7 +85,7 @@
            ② 문서 작성과 분석 작업을 병행함으로써 업무 흐름이 간편해진다.
            ③ GitHub 등 버전 관리 시스템과 연동하여 협업과 이력 관리에 유리하다.
 
-        출처: Posit 공식 문서. https://docs.posit.co/getting-started/
+        참고자료: Posit 공식 문서. https://docs.posit.co/getting-started/
 
       3.2 R 패키지 개발 및 관리 지원 기능
 
@@ -121,7 +121,7 @@
            ③ Git 연동 및 vignette 작성 기능은 협업과 오픈소스 프로젝트 관리에 최적화되어 있다.
            ④ Markdown 기반 vignette 문서는 예제와 시각화를 포함하여 사용자 이해도를 높이는 데 효과적이다.
    
-        출처: Posit 공식 문서. https://docs.posit.co/getting-started/  
+        참고자료: Posit 공식 문서. https://docs.posit.co/getting-started/  
 
       3.3 R/RStudio의 버전 관리 및 Git 연동 지원         
 
