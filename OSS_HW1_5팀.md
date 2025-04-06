@@ -228,7 +228,7 @@
 
 
 
-   3.7 디버깅
+      3.7 디버깅
    
        1.디버깅(Debugging) 기능
         오류가 있는 코드를 추적하거나 중단점을 설정하여 코드 흐름을 분석할 수 있는 다양한 디버깅 도구가 있다.
@@ -273,7 +273,7 @@
         • 예: mean( 입력 시 x, trim = 0, na.rm = FALSE와 같은 인자 정보가 나타남.
 
 
-  3.8 서버환경지원 (RStudio Server)
+      3.8 서버환경지원 (RStudio Server)
   
        1. RStudio Servere: 
        •RStudio IDE를 웹 브라우저에서 사용할수 있도록 만든 서버 버전이다.
