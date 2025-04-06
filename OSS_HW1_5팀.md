@@ -287,21 +287,21 @@
            • 예: mean( 입력 시 x, trim = 0, na.rm = FALSE와 같은 인자 정보가 나타남.
 
       3.8 서버환경지원 (RStudio Server)
-  
-           1. RStudio Server: 
+
+         1. RStudio Server: 
            •RStudio IDE를 웹 브라우저에서 사용할수 있도록 만든 서버 버전이다.
            •Linux 서버에 설치해서 원격 접속가능하다.
            •사용자는 브라우저로 접속해 RStudio를 사용할 수 있다.
            •시스템 자원(CPU, 메모리)을 중앙에서 통합 관리 가능하다.
 
-           2. 주요기능
+         2. 주요기능
 ![3 8 서버환경지원](https://github.com/user-attachments/assets/7c0df2f1-6fc7-4865-9eb0-139627d3474c)
-           
-           3. 버전 종류  
+
+         3. 버전 종류  
            •RStudio Server : 무료 버전, 단인 서버 환경, 기본 기능만 제공한다.
            •RStudio Server Pro(Posit Workbench) : 유료, 멀티세션/멀티 유저 지원, 부하 분산, LDAP 인증, 리소스 제어 등 엔터프라이즈 기능을 포함한다.
 
-           4. 사용 예시
+         4. 사용 예시
            •기업 내 데이터 분석 팀이 중앙 서버를 구축하고 모든 분석을 RStudio Server를 통해 수행한다.
            •대학에서 학생들에게 동일한 분석 환경을 제공하기 위해 서버 환경을 구축한다.
            •클라우드(AWS, GCP, Azure)에서 RStudio Server를 배포하여 원격 분석 환경을 구축한다.
