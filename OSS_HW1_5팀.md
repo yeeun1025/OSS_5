@@ -285,8 +285,6 @@
        2. 주요기능
 ![3 8 서버환경지원](https://github.com/user-attachments/assets/7c0df2f1-6fc7-4865-9eb0-139627d3474c)
 
-
-
        3. 버전 종류  
        •RStudio Server : 무료 버전, 단인 서버 환경, 기본 기능만 제공한다.
        •RStudio Server Pro(Posit Workbench) : 유료, 멀티세션/멀티 유저 지원, 부하 분산, LDAP 인증, 리소스 제어 등 엔터프라이즈 기능을 포함한다.
