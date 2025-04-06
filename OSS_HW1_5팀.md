@@ -290,7 +290,7 @@
 
       3.8 서버환경지원 (RStudio Server)
   
-       1. RStudio Servere: 
+       1. RStudio Server: 
        •RStudio IDE를 웹 브라우저에서 사용할수 있도록 만든 서버 버전이다.
        •Linux 서버에 설치해서 원격 접속가능하다.
        •사용자는 브라우저로 접속해 RStudio를 사용할 수 있다.
