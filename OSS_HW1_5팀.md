@@ -118,6 +118,8 @@
            ② 문서화, 테스트 자동화 도구와의 연동으로 코드 품질과 문서 완성도를 동시에 확보할 수 있다.
            ③ Git 연동 및 vignette 작성 기능은 협업과 오픈소스 프로젝트 관리에 최적화되어 있다.
            ④ Markdown 기반 vignette 문서는 예제와 시각화를 포함하여 사용자 이해도를 높이는 데 효과적이다.
+   
+출처: Posit 공식 문서. https://docs.posit.co/getting-started/  
 
       3.3 R/RStudio의 버전 관리 및 Git 연동 지원         
 
@@ -306,8 +308,6 @@
            •대학에서 학생들에게 동일한 분석 환경을 제공하기 위해 서버 환경을 구축한다.
            •클라우드(AWS, GCP, Azure)에서 RStudio Server를 배포하여 원격 분석 환경을 구축한다.  
            
-           
-출처: Posit 공식 문서. https://docs.posit.co/getting-started/
 
 
    
