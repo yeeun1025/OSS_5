@@ -305,11 +305,10 @@
            •기업 내 데이터 분석 팀이 중앙 서버를 구축하고 모든 분석을 RStudio Server를 통해 수행한다.
            •대학에서 학생들에게 동일한 분석 환경을 제공하기 위해 서버 환경을 구축한다.
            •클라우드(AWS, GCP, Azure)에서 RStudio Server를 배포하여 원격 분석 환경을 구축한다.  
-
-
-
-
-출처: Posit 공식 문서. https://docs.posit.co/getting-started/
+           
+           
+           
+        출처: Posit 공식 문서. https://docs.posit.co/getting-started/
            
    
 
