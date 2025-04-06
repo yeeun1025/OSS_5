@@ -22,7 +22,7 @@
    RStudio는 윈도우, macOS, 리눅스 운영체제에서 모두 사용 가능하며, 오픈소스 버전 외에도 고급 기능이 포함된 상업용 Pro 버전이 존재한다.
    또한 Python과의 연동도 가능해 멀티 언어 기반의 데이터 분석 환경을 구축할 수 있다.
 
-3. 라이선스
+2. 라이선스
    
 - R (R Programming Language)   
   개발 주체: R Foundation for Statistical Computing (비영리 재단)  
