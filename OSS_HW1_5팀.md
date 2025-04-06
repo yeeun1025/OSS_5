@@ -307,6 +307,8 @@
            •클라우드(AWS, GCP, Azure)에서 RStudio Server를 배포하여 원격 분석 환경을 구축한다.  
 
 
+
+
 출처: Posit 공식 문서. https://docs.posit.co/getting-started/
            
    
